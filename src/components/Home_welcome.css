@@ -1,0 +1,26 @@
+.link{
+    text-decoration: none;
+}
+.topmargin{
+    margin-top: 50px;
+}
+.bottommargin{
+    margin-bottom: 50px;
+}
+
+.welcome{
+    text-align: center;
+    font-family: cursive;
+    color: black;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    font-family: cursive;
+}
+.serve{
+    border-radius: 40px 40px 40px 40px; 
+    box-shadow: 20px 20px 20px;
+    width:350px; 
+    height:350px;
+}

@@ -1,0 +1,14 @@
+.footer{
+    background-color: black; 
+    color:orangered; 
+    font-family: cursive; 
+    text-align: justify;
+}
+.footerlink{
+    color: orangered;
+}
+.fa{
+    color:rgb(249, 200, 39); 
+    font-size: 30px; 
+    background-color: black;
+}
